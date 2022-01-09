@@ -8,7 +8,7 @@ function FavoritesPage() {
     const favoritesCtx = useContext(FavoritesContext);
 
 let content;
-if (favoritesCtx.totalFavorites == 0) {
+if (favoritesCtx.totalFavorites === 0) {
     content = <p> You got not Favorites, start adding some?</p>
 } else {
     content = <MeetupList meetups={favoritesCtx.favorites}></MeetupList>
