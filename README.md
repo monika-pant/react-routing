@@ -1,6 +1,12 @@
 # All the code has been written as a practice/learning code from https://www.youtube.com/watch?v=Dorf8i6lCuk
 # Getting Started with Create React App
 
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/28701654/148687825-163bccf3-78b7-4d12-a514-217b4dfd2133.png">
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/28701654/148687845-4755e414-2820-4c49-8ff3-24fb280f00fd.png">
+
+<img width="1437" alt="image" src="https://user-images.githubusercontent.com/28701654/148687856-45e71a0e-59e9-4836-aad7-54722ef4934e.png">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
